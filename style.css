@@ -96,7 +96,7 @@ section {
 
 .home-text h1 {
 	margin: 20px 0;
-	font-size: 70px;
+	font-size: var(--heading-font);
 	font-weight: bold;
 	line-height: 1.1;
 	letter-spacing: 2px;
